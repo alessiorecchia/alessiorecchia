@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat-square&logo=linux&logoColor=#FCC624&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Ubuntu-orange?style=flat-square&logo=linux&logoColor=#FCC624&color=2bbc8a)
 
 
 <!---
