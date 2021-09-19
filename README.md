@@ -1,4 +1,4 @@
-# Hello, there! <img src="https://raw.githubusercontent.com/alessiorecchia/alessiorecchia/master/hi.gif" width="30px">
+# Hello, there! <img src="https://github.com/alessiorecchia/alessiorecchia/blob/main/Hi.gif" width="30px">
 
 - 👋 Hi, I’m @alessiorecchia
 - 👀 I’m interested in AI engineering, I like neural networks!
