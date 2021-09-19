@@ -1,3 +1,5 @@
+# Hello, there! <img src="https://raw.githubusercontent.com/alessiorecchia/alessiorecchia/master/wave.gif" width="30px">
+
 - 👋 Hi, I’m @alessiorecchia
 - 👀 I’m interested in AI engineering, I like neural networks!
 - 🌱 I’m currently learning AI engineering @Strive
