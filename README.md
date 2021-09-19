@@ -1,6 +1,7 @@
 # Hello, there! <img src="https://github.com/alessiorecchia/alessiorecchia/blob/main/Hi.gif" width="30px">
 
 I’m currently working on my capstone project
+
 I'm learning Deep Reinforcement Learning
 
 Some technologies and utilities I learned in the last six months:
