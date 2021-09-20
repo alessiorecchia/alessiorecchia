@@ -6,7 +6,13 @@ I'm learning Deep Reinforcement Learning
 
 Some technologies and utilities I learned in the last six months:
 
-![](https://img.shields.io/badge/OS-Ubuntu-orange?style=flat-square&logo=linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-orange?style=flat-square&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Pytorch-orange?style=flat-square&logo=pytorch&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Flask-orange?style=flat-square&logo=flask&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Scikit_learn-orange?style=flat-square&logo=scikit-learn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-orange?style=flat-square&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Pytorch-orange?style=flat-square&logo=pytorch&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Flask-orange?style=flat-square&logo=flask&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Scikit_learn-orange?style=flat-square&logo=scikit-learn&logoColor=white&color=2bbc8a)
+
+and some others I learned in previous job or just because I wanted to
+
+![](https://img.shields.io/badge/OS-Ubuntu-orange?style=flat-square&logo=linux&logoColor=white&color=2bbc8a) <span class="material-icons">
+router
+</span>
 
 Feel free to contact me!
 
