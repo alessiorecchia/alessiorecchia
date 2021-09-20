@@ -10,9 +10,7 @@ Some technologies and utilities I learned in the last six months:
 
 and some others I learned in previous job or just because I wanted to
 
-![](https://img.shields.io/badge/OS-Ubuntu-orange?style=flat-square&logo=linux&logoColor=white&color=2bbc8a) <span class="material-icons">
-router
-</span>
+![](https://img.shields.io/badge/OS-Ubuntu-orange?style=flat-square&logo=linux&logoColor=white&color=2bbc8a) 
 
 Feel free to contact me!
 
