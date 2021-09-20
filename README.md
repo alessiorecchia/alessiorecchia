@@ -1,6 +1,6 @@
 # Hello, there! <img src="https://github.com/alessiorecchia/alessiorecchia/blob/main/Hi.gif" width="30px">
 
-I’m currently working on my capstone project
+I’m currently working on my <a href="https://github.com/alessiorecchia/curiosity_ai">capstone project</a>
 
 I'm learning Deep Reinforcement Learning
 
