@@ -6,7 +6,7 @@ I'm learning Deep Reinforcement Learning
 
 Some technologies and utilities I use:
 
-![](https://img.shields.io/badge/OS-Ubuntu-orange?style=flat-square&logo=linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-orange?style=flat-square&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Pytorch-orange?style=flat-square&logo=pytorch&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Flask-orange?style=flat-square&logo=flask&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Scikit_learn-orange?style=flat-square&logo=scikit-learn&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-OpenAI GYM-orange?style=flat-square&logo=OpenAI Gym&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/OS-Ubuntu-orange?style=flat-square&logo=linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-orange?style=flat-square&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Pytorch-orange?style=flat-square&logo=pytorch&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Flask-orange?style=flat-square&logo=flask&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Scikit_learn-orange?style=flat-square&logo=scikit-learn&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-OpenAI GYM-orange?style=flat-square&logo=OpenAIGym&logoColor=white&color=2bbc8a) 
 
 
 
